@@ -1,0 +1,72 @@
+버너쓰리 웹 만든이
+
+
+웹브라우져, + 코드 작성 프로그램(에디터 메모장) 아톰
+
+추천 Editor 검색어
+best HTML Editor 2020 == Atom
+https://atom.io/
+
+인터넷에서 컨트롤+O
+저장 컨트롤 +S
+========
+문법
+진하게 표기 중요한 기본적인 문법 테그(tag=설명)
+1. 앞 테그<strong>중요한 부분</strong> 뒤 테그
+2. 더 강하게 밑줄<u>밑줄 치고싶은부분</u>
+3 h 글자 크기(숫자가 올라갈수록 글자수 작아짐)(heading 제목)
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6>
+4. 줄바꿈 <br>
+5. 단락 <p>
+========
+속성
+사진넣기 사진 <img>
+<img src="LOGO.jpg" width="100%">
+
+부모와 자식 2대간의 목록(목차 만들기)
+<ul>,</ul>
+<li>,</li>
+자동 순차
+<ol>,</ol>
+표(3대가 같이해야함>
+<tl></tl>
+============
+링크 걸기(바로가기 및 미리 보기)
+<a href="https://www.mediheal.com/kr"target(새탭)="_blank" title(툴팁 미리보기)="mediheal.com/kr">Mediheal</a>
+
+
+
+
+
+==========
+최초의 웹 사이트
+http://info.cern.ch/
+
+
+
+Via Gambara, 1
+25034 Orzinuovi BS
+P.IVA:3091790980
+Email : info@koriba.eu
+Tel : 388 8210129
+
+
+
+
+<iframe width="900" height="506" src="https://www.youtube.com/embed/Nb0DsJNrmlc?list=PLnT7vcdclR6osFY47nHH0LcEL5jTeAGeY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+18000 euro
+72mesi
+0.24 %
+43.2 euro
+
+fine novembre
+
+
+
+
